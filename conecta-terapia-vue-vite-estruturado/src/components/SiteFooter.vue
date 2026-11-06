@@ -1,0 +1,1 @@
+<template><footer class="footer">© {{ new Date().getFullYear() }} Conecta Terapia · Protótipo demonstrativo · Feito para acolher e conectar</footer></template>
